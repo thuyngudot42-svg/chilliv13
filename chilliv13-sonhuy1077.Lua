@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://vault.pandauth.com/vss/e0a640b4e96ff581"))()
+loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/9cbb71/B0E_76zxMY749Fqg"))()
